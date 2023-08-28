@@ -14,28 +14,29 @@ The repository is organized by problem difficulty and then by problem number. Ea
 - My solution(s) to the problem in various programming languages.
 - Any accompanying notes or explanations related to the problem or solution.
 
-├── Easy
-│ ├── Problem_1
-│ │ ├── problem.md
-│ │ ├── solution.py
-│ │ └── notes.md
-│ ├── ...
-│  
-├── Medium
-│ ├── Problem_42
-│ │ ├── problem.md
-│ │ ├── solution.java
-│ │ └── notes.md
-│ ├── ...
-│
-├── Hard
-│ ├── Problem_137
-│ │ ├── problem.md
-│ │ ├── solution.cpp
-│ │ └── notes.md
-│ ├── ...
-│
-└── README.md
+### Easy Problems
+
+- **Problem 1**
+  - [Problem Statement](Easy/Problem_1/problem.md)
+  - [Solution (Python)](Easy/Problem_1/solution.py)
+  - [Notes](Easy/Problem_1/notes.md)
+- ...
+
+### Medium Problems
+
+- **Problem 42**
+  - [Problem Statement](Medium/Problem_42/problem.md)
+  - [Solution (Java)](Medium/Problem_42/solution.java)
+  - [Notes](Medium/Problem_42/notes.md)
+- ...
+
+### Hard Problems
+
+- **Problem 137**
+  - [Problem Statement](Hard/Problem_137/problem.md)
+  - [Solution (C++)](Hard/Problem_137/solution.cpp)
+  - [Notes](Hard/Problem_137/notes.md)
+- ...
 
 ## How to Contribute
 
