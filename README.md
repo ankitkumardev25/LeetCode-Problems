@@ -17,8 +17,8 @@ The repository is organized by problem difficulty and then by problem number. Ea
 ### Easy Problems
 
 - **Problem 1**
-  - [Problem Statement](Easy/Problem_1/problem.md)
-  - [Solution (Python)](Easy/Problem_1/solution.py)
+  - [Problem Statement](Easy/Problem_1/README.md)
+  - [Solution (Python)](Easy/Problem_1/python solution.py)
   - [Notes](Easy/Problem_1/notes.md)
 - ...
 
