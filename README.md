@@ -14,30 +14,6 @@ The repository is organized by problem difficulty and then by problem number. Ea
 - My solution(s) to the problem in various programming languages.
 - Any accompanying notes or explanations related to the problem or solution.
 
-### Easy Problems
-
-- **Problem 1**
-  - [Problem Statement](Easy/Problem_1/README.md)
-  - [Solution (Python)](Easy/Problem_1/python solution.py)
-  - [Notes](Easy/Problem_1/notes.md)
-- ...
-
-### Medium Problems
-
-- **Problem 42**
-  - [Problem Statement](Medium/Problem_42/problem.md)
-  - [Solution (Java)](Medium/Problem_42/solution.java)
-  - [Notes](Medium/Problem_42/notes.md)
-- ...
-
-### Hard Problems
-
-- **Problem 137**
-  - [Problem Statement](Hard/Problem_137/problem.md)
-  - [Solution (C++)](Hard/Problem_137/solution.cpp)
-  - [Notes](Hard/Problem_137/notes.md)
-- ...
-
 ## How to Contribute
 
 While this is primarily a personal repository for tracking my progress, I welcome contributions, suggestions, and improvements from the community. If you have a better solution to a problem, found a mistake in my code, or want to suggest a different approach, feel free to open an issue or a pull request. Let's learn and grow together!
