@@ -1,14 +1,13 @@
 const twoSum = (numbers, target) => {
-  let p1 = 0
-  let p2 = numbers.length - 1
+  let left = 0
+  let right = numbers.length - 1
 
-  while (numbers[p1] + numbers[p2] !== target) {
-    if (numbers[p1] + numbers[p2] > target) {
-      p2--
+  while (numbers[left] + numbers[right] !== target) {
+    if (numbers[left] + numbers[right] > target) {
+      right--
     } else {
-      p1++
+      left++
     }
   }
-
-  return [p1 + 1, p2 + 1]
+  return [left + 1, right + 1]
 }
